@@ -29,16 +29,9 @@ class App extends React.Component {
         </div>
       );
     }
-    else {
-      return (
-
-
-        <Article />
-
-      );
-    }
-
   }
+
+
 }
 
 export default App; 
